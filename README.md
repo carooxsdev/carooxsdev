@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with front-end
 - 🌱 I’m currently learning react
-- 😄 Pronouns: She, Her, they.
+- 😄 Pronouns: She, Her, They.
 
 
 <div align="center">
